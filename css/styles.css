@@ -4,9 +4,10 @@ a {
 
 .attribution {
   font-size: 11px;
-  text-align: center;
-  position: relative;
-  top: 220px;
+  position: absolute;
+  top: 47rem;
+  left: 43%;
+
 }
 
 .attribution a {
@@ -140,8 +141,5 @@ table {
   width: 450px;
   padding-bottom: 10px;
   border-radius: 20px;
-}
 
-*.sketch
-*.fig
-*.xd
+}
